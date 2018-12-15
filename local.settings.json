@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "4ce7743e-7a80-46da-8132-755e038e8062",
+    "WEBSITE_NODE_DEFAULT_VERSION": "8.11.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=easysplitfuncti93ea;AccountKey=qEFU69X848xktG7esl7X83fEUsIPYC5A6m8P7PqX54PmUjzZ6NbgTif1FCBieYtTkxGeLqmnQnHvtRDqTi+B4Q==",
+    "WEBSITE_CONTENTSHARE": "easysplitfunctions93ea",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "EasySplitFunctions",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=easysplitfuncti93ea;AccountKey=qEFU69X848xktG7esl7X83fEUsIPYC5A6m8P7PqX54PmUjzZ6NbgTif1FCBieYtTkxGeLqmnQnHvtRDqTi+B4Q==",
+    "BancoDeDados": "Server=tcp:easysplitbd.database.windows.net,1433;Initial Catalog=EazySplitBD;Persist Security Info=False;User ID=mobEazy;Password=W}Zb6XRJ;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}
